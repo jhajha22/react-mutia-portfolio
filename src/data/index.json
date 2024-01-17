@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "As a front-end developer, I specialize in crafting the visual and interactive elements of websites. I bring creativity to life through code, ensuring a seamless and engaging user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Creative",
+      "description": "As a creative, I thrive on turning ideas into reality. Whether through art, design, or innovative thinking, I enjoy bringing a unique and imaginative touch to everything I do."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Multitask",
+      "description": "As a multitasker, I excel in efficiently managing and juggling various responsibilities. I thrive in dynamic environments, adept at handling diverse tasks simultaneously to achieve optimal results."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I specialize in Webflow development, seamlessly blending design and functionality to create visually appealing and user-friendly websites."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "My Resume",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "My Works",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "websites",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "her works are very unique.",
+      "author_name": "SamanthaBanguis",
+      "author_designation": "CEO"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I'm always amazed by her work",
+      "author_name": "Rianna Batersal",
+      "author_designation": "manager"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Very proffesional",
+      "author_name": "Niel Taer",
+      "author_designation": "Student"
+    }
+  ]
+}
